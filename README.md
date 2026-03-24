@@ -50,12 +50,3 @@ Este é um projeto de aprendizado pessoal, mas sugestões e dicas são sempre be
 
 Mateus Andrade Motta
 Estudante de Engenharia de Software
-
-Se quiser, posso melhorar ainda mais com:
-
-🔥 badges (nível GitHub profissional)
-🌐 link do seu site/projeto
-📊 progresso por checklist
-💼 versão “para recrutador”
-
-Só falar que eu deixo ele nível top de portfólio 🚀
